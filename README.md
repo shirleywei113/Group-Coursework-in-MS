@@ -1,2 +1,2 @@
-# Group-Coursework-in-MS
-These presentations are the coursework completed with my group members in master period.
+# ProjectsCoursework-in-MS
+These presentations are the projects and coursework completed during my master's degree.
